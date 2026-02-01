@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "aal7lteta.aternos.me",
+    "port": 55217,
     "version": "1.19.3"
   },
 
@@ -49,9 +49,8 @@
 
       "messages": [
         "I'm a regular player ",
-        "My owner is urFate_ ",
         "I want be alone ",
-        "Visit my GitHub page! (urFate/Afk-Bot)"
+        "Subscribe to MrS7lb",
       ]
     },
 
